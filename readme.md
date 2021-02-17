@@ -29,13 +29,13 @@ python sheet_generator.py -t "This is our Goal" -y 2024 -p 2 -i "TL" -c "#7e3a91
 
 A single person wants to follow his/her's goal.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image from Images](https://github.com/orion512/yearly_goal_sheet/blob/main/images/example_goals_calendar.png)
 
 ## Example 2
 
 A couple Tom and Lisa want to follow their goal.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/orion512/yearly_goal_sheet/blob/main/images/example_couple_goals_calendar.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
