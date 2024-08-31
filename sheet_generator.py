@@ -45,7 +45,7 @@ a4_size = 3508, 2480
 bg_color = '#f3f3f3'
 text_color = '#ffffff'
 
-font_path = 'fonts\\Arial.ttf'
+font_path = os.path.join(os.getcwd(), 'fonts', 'arial.ttf')
 
 fnt_40 = ImageFont.truetype(font_path, 40)
 fnt_60 = ImageFont.truetype(font_path, 60)
